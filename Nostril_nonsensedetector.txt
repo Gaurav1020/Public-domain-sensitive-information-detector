@@ -1,1 +1,0 @@
-https://stackoverflow.com/questions/21715354/how-whether-a-string-is-randomly-generated-or-plausibly-an-english-word
