@@ -24,7 +24,7 @@ items=Scripts_Item()
 
 class PostsSpider(scrapy.Spider):
     name= "posts"
-    start_urls=["http://google.com"]
+    start_urls=["http://geeksforgeeks.org"]
 
     # start_urls=["http://geeksforgeeks.org/"]
 
