@@ -25,6 +25,7 @@ path=os.getcwd()
 path=path.replace("\\","/")
 # path=path.rsplit('/',1)[0]
 path_csvfile=path+"/webspider.csv"
+path_csvfile="../webspider.csv"
 maxInt = sys.maxsize
 # print(path)
 while True:
